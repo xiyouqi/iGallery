@@ -1,0 +1,25 @@
+{
+  "name": "iGallery",
+  "version": "0.1.0",
+  "authors": [
+    "lanshayu <fingnet@gmail.com>"
+  ],
+  "description": "Waiting for you",
+  "main": "js/app.js",
+  "keywords": [
+    "gallery",
+    "mobile",
+    "webapp"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "vendor",
+    "test",
+    "tests",
+    "bower_components"
+  ],
+  "dependencies": {
+    "photoswipe": "~4.1.0"
+  }
+}
